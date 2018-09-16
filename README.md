@@ -1,3 +1,3 @@
 # php-hashing-sample
 contoh hashing dengan beberapa algoritma pada PHP
-\n dengan beberapa algoritma berikut
+<br> dengan beberapa algoritma berikut
