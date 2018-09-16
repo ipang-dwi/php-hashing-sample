@@ -1,5 +1,5 @@
 # php-hashing-sample
-Contoh hashing dengan beberapa algoritma pada PHP
+<br> Contoh hashing dengan beberapa algoritma pada PHP
 <br> Dengan beberapa algoritma berikut :
 - MD5	
 - SHA512	
