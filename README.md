@@ -1,5 +1,5 @@
 # php-hashing-sample
-> demo langsung cek tkp https://lab.firstplato.com/hashing-sample
+> demo langsung cek tkp https://lab.firstplato.com/hashing
 
 <br> Contoh hashing dengan beberapa algoritma pada PHP
 <br> Dengan beberapa algoritma berikut :
